@@ -1,0 +1,15 @@
+
+D
+java:S1481"'Remove this unused "s2" local variable.(£´Ùª8³§€Íş.
+W
+java:S1854"5Remove this useless assignment to local variable "c".(©ùºûûÿÿÿÿ8›¨áÌş.
+H
+java:S1481"&Remove this unused "c" local variable.(©ùºûûÿÿÿÿ8›¨áÌş.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(áÜÆï8İ©ŒÊş.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¼öã8›ÜŞ¢ş.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(şÿğ³8ŸŠİËş.
+S
+java:S1854"6Remove this useless assignment to local variable "s2".(£´Ùª8³§€Íş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©à¢ş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¢šåÌş.
