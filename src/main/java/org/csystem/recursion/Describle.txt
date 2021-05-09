@@ -1,0 +1,20 @@
+
+
+/*
+     Ozyineleme (recursion), ozyinemeli algoritmalar ve ozyinemeli metotlar:
+     Bir olgunun kendisine cok benzer bir olguyu icermesi durumuna ozyinemeli denir.
+     Ornegin bir dizin agacini dolasmak isteyelim. Dizin icerisindeki bir girisin bir
+     dizin belirttigi durumda tekrar o dizin icinde ayni islemlerin yapilmasi gerekir.
+
+     Eger bir algoritmayi cozmek icin ilerlerken bir noktaya geldigimizde, bu geldigimiz
+     noktada basladigimiz noktaya cok benzer bir durumla karsilasiyorsak muhtemelen
+     bu algoritma ozyinelemeli bir algoritmadir.
+
+
+    Bir metodun degiskenleri ve yerel degiskenler stack'de yaratildigindan ve genelde
+    islemciye gore metot cagrisinda bir takim islemler icin yine stack'de yer ayrilmasi
+    gerekir.
+
+
+*/
+

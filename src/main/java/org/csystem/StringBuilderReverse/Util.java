@@ -29,6 +29,7 @@ public class Util {
     }
 
 
+
     public static void main(String[] args) {
         String s1 = "ankara";
         System.out.println(Util.reverse(s1));

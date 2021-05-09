@@ -1,0 +1,21 @@
+
+
+
+~     ------>       bitwise not
+<<    ------>       left shift
+>>    ------>       right shift
+>>>   ------>       unsigned right shift
+
+&     ------>       bitwise and
+^     ------>       bitwise xor (exclusive or)
+|     ------>       bitwise or
+
+
+>>= <<= >>>= &= |= ^=    ------> atama
+
+
+Bu operatorler gercek sayi turleri ile kullanilamazlar.
+
+Birkac istisna durum disinda boolean turu ile de kullanilmazlar.
+
+
